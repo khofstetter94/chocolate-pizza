@@ -77,7 +77,7 @@ text-indent: 30px;
 #ulLists{
   margin-top:25px;
   padding:0px 20px;
-background: url(/img/list-bg.png) no-repeat ;
+background: url(img/list-bg.png) no-repeat ;
 background-size: cover;
 display: flex;
 justify-content: space-between;
